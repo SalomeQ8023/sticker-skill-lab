@@ -1,0 +1,7 @@
+interface:
+  display_name: "球是发散家｜稚拙蜡笔3+7手账套装"
+  short_description: "把人物或宠物照片变成3+7透明手账贴纸套装"
+  default_prompt: "用 $naive-crayon-sticker-set 把我上传的人物或宠物照片做成 3 个主贴纸和 7 个搭配素材的透明手账贴纸套装。"
+
+policy:
+  allow_implicit_invocation: true
